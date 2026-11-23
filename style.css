@@ -1,10 +1,10 @@
 
 :root {
-    --background: #f0f7f1;
-    --dark: #212521;
-    --text: #4e554e;
-    --text-light: #7f8980;
-    --terracotta: #55a662;
+    --background: #F3F0E6;
+    --dark: #414B38;
+    --text: #737F5B;
+    --text-light: #A5AA8B;
+    --terracotta: #737F5B;
     --serif: 'Playfair Display', serif;
     --sans: 'DM Sans', sans-serif;
 }
