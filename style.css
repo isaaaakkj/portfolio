@@ -1,10 +1,10 @@
 
 :root {
-    --background: #f7f5f0;
-    --dark: #252521;
-    --text: #55544e;
-    --text-light: #89877f;
-    --terracotta: #a66f55;
+    --background: #f0f7f1;
+    --dark: #212521;
+    --text: #4e554e;
+    --text-light: #7f8980;
+    --terracotta: #55a662;
     --serif: 'Playfair Display', serif;
     --sans: 'DM Sans', sans-serif;
 }
@@ -36,8 +36,8 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #e8e4dc;
-    background: rgba(247, 245, 240, 0.95);
+    border-bottom: 1px solid #dce8dc;
+    background: rgba(240, 247, 242, 0.95);
     position: sticky;
     top: 0;
     z-index: 10;
@@ -285,7 +285,7 @@ h2 em {
     height: 38px;
     display: grid;
     place-items: center;
-    border: 1px solid #d9d2c7;
+    border: 1px solid #cad9c7;
     border-radius: 50%;
     transition: all 0.3s;
 }
@@ -299,7 +299,7 @@ h2 em {
 .gallery-footer {
     margin-top: 75px;
     padding-top: 20px;
-    border-top: 1px solid #e2ddd5;
+    border-top: 1px solid #d5e2d6;
     display: flex;
     justify-content: space-between;
     color: var(--text-light);
@@ -311,7 +311,7 @@ h2 em {
 
 .about-section {
     padding: 100px 8%;
-    background: #eeebe4;
+    background: #e4eee6;
     text-align: center;
 }
 
@@ -354,7 +354,7 @@ h2 em {
 
 footer {
     padding: 30px 8%;
-    border-top: 1px solid #e8e4dc;
+    border-top: 1px solid #dce8dd;
     display: flex;
     justify-content: space-between;
     align-items: center;
